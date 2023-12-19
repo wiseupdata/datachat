@@ -38,9 +38,9 @@ pip install datachat
 
 <br>
 
-<a name="version-0.0.1"></a>
+<a name="version-0.0.2"></a>
 
-## Version 0.0.1 ✨️
+## Version 0.0.2 ✨️
 
 - Under construction
 - Made with A.I. contribution 🤖 
