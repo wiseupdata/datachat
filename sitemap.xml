@@ -11,7 +11,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://wiseupdata.github.io/datachat/index.html/datachat/cli/</loc>
+         <lastmod>2023-12-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://wiseupdata.github.io/datachat/index.html/examples/usage/</loc>
+         <lastmod>2023-12-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiseupdata.github.io/datachat/index.html/examples/local/local_usage/</loc>
          <lastmod>2023-12-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
