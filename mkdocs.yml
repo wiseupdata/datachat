@@ -66,6 +66,7 @@ extra_css:
 nav:
 - package: datachat/
 - Python file: examples/usage.ipynb
+- Python file: examples/local/local_usage.ipynb
 
 plugins:
   - search 

@@ -15,6 +15,9 @@ poetry add --group dev mkdocs-section-index
 poetry add --group dev mkdocs-material
 poetry add --group dev mkdocs-material-extensions
 poetry add --group dev mkdocs-jupyter
+poetry add --group dev pytest
+
+poetry add click
 
 mkdocs new .
 mkdocs serve
