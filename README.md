@@ -18,11 +18,17 @@
 <a name="readme-top"></a>
 
 <h1>
-<img align="left" alt="DataChat" src="https://raw.githubusercontent.com/wiseupdata/datachat/main/assets/imgs/bot.jpeg" width="100" />
+<img align="left" alt="DataChat" src="https://raw.githubusercontent.com/wiseupdata/datachat/main/assets/imgs/bot.jpeg" width="150" />
 
 DataChat, talk with your data! 🚀️
 
 </h1>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Simple to use ❤️
 
